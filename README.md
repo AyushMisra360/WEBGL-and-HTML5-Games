@@ -9,7 +9,7 @@ A collection of interactive browser games built with WebGL and HTML5 featuring s
 
 # 🎮 Games Included:
 
-# 🐦 Flappy Bird Clone:
+🐦 Flappy Bird Clone:
 - Classic gameplay with smooth physics
 - Responsive controls
 - Score tracking system
