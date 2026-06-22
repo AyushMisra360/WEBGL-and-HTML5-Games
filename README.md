@@ -17,3 +17,9 @@ A collection of interactive browser games built with WebGL and HTML5 featuring s
 Demo : https://flappybirdangry.netlify.app/
 
 
+🎮 Tic Tac Toe ❌⭕ :
+- Play the classic game with a modern twist!
+-  Smooth, responsive gameplay with a clean and interactive UI
+-   Play instantly in your browser and challenge your friends anytime
+
+Demo :
