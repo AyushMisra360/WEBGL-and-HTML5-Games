@@ -6,4 +6,12 @@ A collection of interactive browser games built with WebGL and HTML5 featuring s
 <p align="center"> <img src="https://img.shields.io/badge/Rendering-WebGL-blue?style=for-the-badge&logo=webgl"/> <img src="https://img.shields.io/badge/Frontend-HTML5-orange?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/Style-CSS3-blue?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/Logic-JavaScript-yellow?style=for-the-badge&logo=javascript"/> </p>
 
 ---
-<p align="center"> <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="650" style="border-radius:15px; box-shadow: 0 0 25px #00f7ff;" /> </p>
+
+#🎮 Games Included:
+
+#🐦 Flappy Bird Clone:
+- Classic gameplay with smooth physics
+- Responsive controls
+- Score tracking system
+
+<p align="center"> <a href="https://your-username.github.io/repo-name/" target="_blank"> <img src="https://img.shields.io/badge/🎮_Play_Live_Now-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/> </a> </p>
