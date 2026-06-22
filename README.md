@@ -14,4 +14,4 @@ A collection of interactive browser games built with WebGL and HTML5 featuring s
 - Responsive controls
 - Score tracking system
 
-<p align="center"> <a href="https://your-username.github.io/repo-name/" target="_blank"> <img src="https://img.shields.io/badge/🎮_Play_Live_Now-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF6EC7&height=200&section=header&text=WebGL%20Arcade&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
