@@ -7,11 +7,11 @@ A collection of interactive browser games built with WebGL and HTML5 featuring s
 
 ---
 
-#🎮 Games Included:
+# 🎮 Games Included:
 
-#🐦 Flappy Bird Clone:
+# 🐦 Flappy Bird Clone:
 - Classic gameplay with smooth physics
 - Responsive controls
 - Score tracking system
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF6EC7&height=200&section=header&text=WebGL%20Arcade&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
