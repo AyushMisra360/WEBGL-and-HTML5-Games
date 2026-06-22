@@ -14,4 +14,6 @@ A collection of interactive browser games built with WebGL and HTML5 featuring s
 - Responsive controls
 - Score tracking system
 
+Demo : https://flappybirdangry.netlify.app/
+
 
